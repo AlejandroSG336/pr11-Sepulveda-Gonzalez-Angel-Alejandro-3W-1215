@@ -35,4 +35,5 @@ print(f"La distancia dirigida entre los puntos ({x1}, {y1}) y ({x2}, {y2}) es: {
 
 ![image](https://github.com/user-attachments/assets/78d5f050-8b24-4e2e-876b-661715d5b0e7)
 ![image](https://github.com/user-attachments/assets/b0ba6208-a345-4b10-b417-948c9ef6d77f)
+![image](https://github.com/user-attachments/assets/31438032-9f4a-4983-ac6e-a260ef722b4d)
 
